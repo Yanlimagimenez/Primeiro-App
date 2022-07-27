@@ -1,0 +1,15 @@
+D:\Projetos\PAMII\PrimeiroApp\PrimeiroApp\PrimeiroApp\bin\Debug\netstandard2.0\PrimeiroApp.deps.json
+D:\Projetos\PAMII\PrimeiroApp\PrimeiroApp\PrimeiroApp\bin\Debug\netstandard2.0\PrimeiroApp.dll
+D:\Projetos\PAMII\PrimeiroApp\PrimeiroApp\PrimeiroApp\bin\Debug\netstandard2.0\PrimeiroApp.pdb
+D:\Projetos\PAMII\PrimeiroApp\PrimeiroApp\PrimeiroApp\obj\Debug\netstandard2.0\PrimeiroApp.csproj.AssemblyReference.cache
+D:\Projetos\PAMII\PrimeiroApp\PrimeiroApp\PrimeiroApp\obj\Debug\netstandard2.0\PrimeiroApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projetos\PAMII\PrimeiroApp\PrimeiroApp\PrimeiroApp\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\Projetos\PAMII\PrimeiroApp\PrimeiroApp\PrimeiroApp\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\Projetos\PAMII\PrimeiroApp\PrimeiroApp\PrimeiroApp\obj\Debug\netstandard2.0\PrimeiroApp.AssemblyInfoInputs.cache
+D:\Projetos\PAMII\PrimeiroApp\PrimeiroApp\PrimeiroApp\obj\Debug\netstandard2.0\PrimeiroApp.AssemblyInfo.cs
+D:\Projetos\PAMII\PrimeiroApp\PrimeiroApp\PrimeiroApp\obj\Debug\netstandard2.0\PrimeiroApp.csproj.CoreCompileInputs.cache
+D:\Projetos\PAMII\PrimeiroApp\PrimeiroApp\PrimeiroApp\obj\Debug\netstandard2.0\XamlC.stamp
+D:\Projetos\PAMII\PrimeiroApp\PrimeiroApp\PrimeiroApp\obj\Debug\netstandard2.0\PrimeiroApp.dll
+D:\Projetos\PAMII\PrimeiroApp\PrimeiroApp\PrimeiroApp\obj\Debug\netstandard2.0\refint\PrimeiroApp.dll
+D:\Projetos\PAMII\PrimeiroApp\PrimeiroApp\PrimeiroApp\obj\Debug\netstandard2.0\PrimeiroApp.pdb
+D:\Projetos\PAMII\PrimeiroApp\PrimeiroApp\PrimeiroApp\obj\Debug\netstandard2.0\ref\PrimeiroApp.dll
