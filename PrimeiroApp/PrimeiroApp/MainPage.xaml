@@ -23,8 +23,12 @@
         <Button x:Name="btnCliqueAqui"  Text="Clique Aqui" Clicked="Button_Clicked" />
         <Button x:Name="btnVerificar" Text="Verificar" Clicked="btnVerificar_Clicked" />
         <Button x:Name="btnLimpar" Text="Limpar" Clicked="btnLimpar_Clicked" />
-        <Entry x:Name="txtNome" Placeholder="" 
-        />
+        <Entry x:Name="txtNome" Placeholder="" />
+
+        <Button x:Name="btnInformarDataNAscimento" Text="Informe a Data de Nascimento" Clicked="btnInformarDataNAscimento_Clicked"/>
+
+        <Label x:Name="lblDataNascimento" />
+        <Button x:Name="btnOpções" Text="Opções" Clicked="btnOpcoes_Clicked"/>
     </StackLayout>
 
 </ContentPage>
